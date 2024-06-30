@@ -16,26 +16,14 @@ Hello! My name is Nikita, and I am a junior PHP developer with six months of exp
 
 ***
 ## Skills:
-### Backend Development
-* PHP 7.4/8.2
-* Symfony
-* Laravel
-* SQL
-* PostgreSQL
-* Twig
-### Frontend Development
-* HTML5
-* CSS3
-* Bootstrap
-### DevOps & Tools
-* Docker
-* Git/GitLab
-* Nginx
-* GitLabCI
-* Linux
-### Project Management
-* Atlassian Jira
-* Atlassian Confluence
+| Backend Development    | Frontend Development | DevOps & Tools       | Project Management    |
+|------------------------|----------------------|----------------------|-----------------------|
+| * PHP 7.4/8.2          | * HTML5              | * Docker             | * Atlassian Jira      |
+| * Symfony              | * CSS3               | * Git/GitLab         | * Atlassian Confluence|
+| * Laravel              | * Bootstrap          | * Nginx              |                       |
+| * SQL                  |                      | * GitLabCI           |                       |
+| * PostgreSQL           |                      | * Linux              |                       |
+| * Twig                 |                      |                      |                       |
 
 ***
 ## Code example:
@@ -88,5 +76,5 @@ function lovefunc(flower1, flower2){
 ***
 ## Languages:
 * Russian — Native
-* English — A2 Elementary****
+* English — A2 Elementary
 
