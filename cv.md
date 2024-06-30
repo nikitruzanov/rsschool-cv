@@ -1,5 +1,6 @@
 # Ruzanov Nikita
 ### ***Junior Frontend Developer***
+
 ***
 ## Contacts:
 * Location: Samara, Russia
@@ -8,9 +9,11 @@
 * GitHub: [nikitruzanov](https://github.com/nikitruzanov)
 * Telegram: [nikitruzanov](https://t.me/nikitruzanov)
 * Discord: nikitruzanov
+
 ***
 ## About Myself:
 Hello! My name is Nikita, and I am a junior PHP developer with six months of experience in development. My passion for programming, servers, and cloud technologies started long ago, and this led me to decide to change my career and fully dedicate myself to IT. I am confident that I can realize my potential and achieve professional heights in this field.
+
 ***
 ## Skills:
 ### Backend Development
@@ -33,6 +36,7 @@ Hello! My name is Nikita, and I am a junior PHP developer with six months of exp
 ### Project Management
 * Atlassian Jira
 * Atlassian Confluence
+
 ***
 ## Code example:
 Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
@@ -43,11 +47,13 @@ function lovefunc(flower1, flower2){
     return (flower1 % 2 !== flower2 % 2);
 }
 ```
+
 ***
 ## Education:
 * Incomplete Higher Education
   * Branch of the Eastern Economic and Legal Humanities Academy, Samara (2026)
   Economics, Accounting, Analysis and Audit (Economist)
+
 ***
 ## Experience:
 ### Project under NDA
@@ -70,6 +76,7 @@ function lovefunc(flower1, flower2){
 * Improved managerial control, leading to a 50% staff increase.
 * Implemented a financial management and workload control system.
 * Assisted in the recruitment process and managed office operations.
+
 ***
 ## Courses:
 * [PHP Course: Online Learning from Scratch](https://code-basics.com/ru/courses/php)
@@ -77,6 +84,7 @@ function lovefunc(flower1, flower2){
 * [SQL - Academy](https://sql-academy.org/)
 * [Free HTML Course](https://code-basics.com/ru/courses/html)
 * [Free CSS Course](https://code-basics.com/ru/courses/css)
+
 ***
 ## Languages:
 * Russian — Native
