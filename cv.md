@@ -88,5 +88,5 @@ function lovefunc(flower1, flower2){
 ***
 ## Languages:
 * Russian — Native
-* English — A2 Elementary****
+* English — A2 Elementary
 
