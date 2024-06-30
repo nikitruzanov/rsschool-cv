@@ -1,7 +1,7 @@
 # Ruzanov Nikita
 ![Ruzanov_photo](images/im.jpg "Ruzanov photo")
 ### ***Junior Frontend Developer***
-___
+***
 ## Contacts:
 * Location: Samara, Russia
 * Phone: +7 939 76 66 090
@@ -9,10 +9,10 @@ ___
 * GitHub: [nikitruzanov](https://github.com/nikitruzanov)
 * Telegram: [nikitruzanov](https://t.me/nikitruzanov)
 * Discord: nikitruzanov
-___
+***
 ## About Myself:
 Hello! My name is Nikita, and I am a junior PHP developer with six months of experience in development. My passion for programming, servers, and cloud technologies started long ago, and this led me to decide to change my career and fully dedicate myself to IT. I am confident that I can realize my potential and achieve professional heights in this field.
-___
+***
 ## Skills:
 ### Backend Development
 * PHP 7.4/8.2
@@ -34,7 +34,7 @@ ___
 ### Project Management
 * Atlassian Jira
 * Atlassian Confluence
-___
+***
 ## Code example:
 Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
 
@@ -44,12 +44,12 @@ function lovefunc(flower1, flower2){
     return (flower1 % 2 !== flower2 % 2);
 }
 ```
-___
+***
 ## Education:
 * Incomplete Higher Education
   * Branch of the Eastern Economic and Legal Humanities Academy, Samara (2026)
   Economics, Accounting, Analysis and Audit (Economist)
-___
+***
 ## Experience:
 ### Project under NDA
 *Samara*
@@ -71,15 +71,15 @@ ___
 * Improved managerial control, leading to a 50% staff increase.
 * Implemented a financial management and workload control system.
 * Assisted in the recruitment process and managed office operations.
-___
+***
 ## Courses:
 * [PHP Course: Online Learning from Scratch](https://code-basics.com/ru/courses/php)
 * [SymfonyBook](https://symfony.com/doc/current/index.html)
 * [SQL - Academy](https://sql-academy.org/)
 * [Free HTML Course](https://code-basics.com/ru/courses/html)
 * [Free CSS Course](https://code-basics.com/ru/courses/css)
-___
+***
 ## Languages:
 * Russian — Native
-* English — A2 Elementary
+* English — A2 Elementary****
 
