@@ -1,4 +1,5 @@
 # Ruzanov Nikita
+![Ruzanov_photo](images/im.jpg "Ruzanov photo")
 ### ***Junior Frontend Developer***
 ***
 ## Contacts:
@@ -7,12 +8,12 @@
 * E-mail: nikitruzanov@gmail.com
 * GitHub: [nikitruzanov](https://github.com/nikitruzanov)
 * Telegram: [nikitruzanov](https://t.me/nikitruzanov)
+* Discord: nikitruzanov
 ***
 ## About Myself:
 Hello! My name is Nikita, and I am a junior PHP developer with six months of experience in development. My passion for programming, servers, and cloud technologies started long ago, and this led me to decide to change my career and fully dedicate myself to IT. I am confident that I can realize my potential and achieve professional heights in this field.
 ***
 ## Skills:
-
 | Backend Development    | Frontend Development | DevOps & Tools       | Project Management    |
 |------------------------|----------------------|----------------------|-----------------------|
 | * PHP 7.4/8.2          | * HTML5              | * Docker             | * Atlassian Jira      |
@@ -21,7 +22,16 @@ Hello! My name is Nikita, and I am a junior PHP developer with six months of exp
 | * SQL                  |                      | * GitLabCI           |                       |
 | * PostgreSQL           |                      | * Linux              |                       |
 | * Twig                 |                      |                      |                       |
+***
+## Code example:
+Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
 
+Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
+``` 
+function lovefunc(flower1, flower2){
+    return (flower1 % 2 !== flower2 % 2);
+}
+```
 ***
 ## Education:
 * Incomplete Higher Education
@@ -53,12 +63,11 @@ Hello! My name is Nikita, and I am a junior PHP developer with six months of exp
 * Assisted in the recruitment process and managed office operations.
 ***
 ## Courses:
-* [Курс PHP: онлайн обучение с нуля](https://code-basics.com/ru/courses/php)
+* [PHP Course: Online Learning from Scratch](https://code-basics.com/ru/courses/php)
 * [SymfonyBook](https://symfony.com/doc/current/index.html)
 * [SQL - Academy](https://sql-academy.org/)
-* [Бесплатный курс по HTML](https://code-basics.com/ru/courses/html)
-* [Бесплатный курс по CSS](https://code-basics.com/ru/courses/css)
-
+* [Free HTML Course](https://code-basics.com/ru/courses/html)
+* [Free CSS Course](https://code-basics.com/ru/courses/css)
 ***
 ## Languages:
 * Russian — Native
