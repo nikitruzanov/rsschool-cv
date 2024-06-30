@@ -1,5 +1,4 @@
 # Ruzanov Nikita
-![Ruzanov_photo](images/im.jpg "Ruzanov photo")
 ### ***Junior Frontend Developer***
 ***
 ## Contacts:
