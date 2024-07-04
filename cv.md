@@ -11,7 +11,7 @@
 * Discord: nikitruzanov
 
 ***
-## About Myself:
+## Summary:
 Hello! My name is Nikita, and I am a junior PHP developer with six months of experience in development. My passion for programming, servers, and cloud technologies started long ago, and this led me to decide to change my career and fully dedicate myself to IT. I am confident that I can realize my potential and achieve professional heights in this field.
 
 ***
@@ -38,7 +38,7 @@ Hello! My name is Nikita, and I am a junior PHP developer with six months of exp
 * Atlassian Confluence
 
 ***
-## Code example:
+## Code:
 Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
 
 Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
@@ -55,7 +55,7 @@ function lovefunc(flower1, flower2){
   Economics, Accounting, Analysis and Audit (Economist)
 
 ***
-## Experience:
+## Projects:
 ### Project under NDA
 *Samara*
 **PHP - Backend Developer** *(January 2024 — Present, 6 months)*
