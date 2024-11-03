@@ -3,6 +3,8 @@
     src: url("assets/fonts/Anton_SC/AntonSC-Regular.ttf");
 }
 
+
+
 body {
     font-family: Anton, serif;
     display: flex;
@@ -121,6 +123,11 @@ main {
     width: 50px;
     height: auto;
     vertical-align: middle;
+}
+
+.avatar{
+    width: 200px;
+    height: 200px;
 }
 
 
